@@ -1,0 +1,116 @@
+[11:46:51] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:46:58] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:46:58] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:46:58] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:46:58] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:46:58] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:47:01] [Worker-Main-2/INFO]: Loaded 7 recipes
+[11:47:01] [Worker-Main-2/INFO]: Loaded 1141 advancements
+[11:47:05] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[11:47:05] [Server thread/INFO]: Loading properties
+[11:47:05] [Server thread/INFO]: Default game type: SURVIVAL
+[11:47:05] [Server thread/INFO]: Generating keypair
+[11:47:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:47:06] [Server thread/INFO]: Using epoll channel type
+[11:47:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:47:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:47:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:47:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:47:06] [Server thread/INFO]: Preparing level "world"
+[11:47:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:47:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:47:25] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[11:47:25] [Worker-Main-2/INFO]: Preparing spawn area: 3%
+[11:47:26] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[11:47:26] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[11:47:27] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[11:47:28] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[11:47:28] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[11:47:28] [Worker-Main-2/INFO]: Preparing spawn area: 9%
+[11:47:29] [Worker-Main-2/INFO]: Preparing spawn area: 9%
+[11:47:29] [Worker-Main-2/INFO]: Preparing spawn area: 11%
+[11:47:30] [Worker-Main-2/INFO]: Preparing spawn area: 13%
+[11:47:30] [Worker-Main-2/INFO]: Preparing spawn area: 19%
+[11:47:31] [Worker-Main-2/INFO]: Preparing spawn area: 22%
+[11:47:32] [Worker-Main-2/INFO]: Preparing spawn area: 22%
+[11:47:32] [Worker-Main-2/INFO]: Preparing spawn area: 22%
+[11:47:32] [Worker-Main-2/INFO]: Preparing spawn area: 22%
+[11:47:33] [Worker-Main-2/INFO]: Preparing spawn area: 22%
+[11:47:33] [Worker-Main-2/INFO]: Preparing spawn area: 24%
+[11:47:34] [Worker-Main-2/INFO]: Preparing spawn area: 27%
+[11:47:34] [Worker-Main-2/INFO]: Preparing spawn area: 37%
+[11:47:35] [Worker-Main-2/INFO]: Preparing spawn area: 40%
+[11:47:36] [Worker-Main-2/INFO]: Preparing spawn area: 44%
+[11:47:36] [Worker-Main-2/INFO]: Preparing spawn area: 50%
+[11:47:36] [Worker-Main-2/INFO]: Preparing spawn area: 59%
+[11:47:37] [Worker-Main-2/INFO]: Preparing spawn area: 66%
+[11:47:38] [Worker-Main-2/INFO]: Preparing spawn area: 80%
+[11:47:38] [Worker-Main-2/INFO]: Preparing spawn area: 93%
+[11:47:40] [Server thread/INFO]: Time elapsed: 24614 ms
+[11:47:40] [Server thread/INFO]: Done (33.529s)! For help, type "help"
+[12:16:33] [Server thread/INFO]: Benjamin[/204.18.44.251:56225] logged in with entity id 37 at (-2409.3242420421816, 65.0, -2637.169853674742)
+[12:16:33] [Server thread/INFO]: Benjamin joined the game
+[12:16:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3238ms or 64 ticks behind
+[12:16:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2749ms or 54 ticks behind
+[12:21:36] [Server thread/INFO]: Aslan[/151.242.203.250:23011] logged in with entity id 1024 at (-2311.5610014805966, 56.5625, -2640.916653670017)
+[12:21:36] [Server thread/INFO]: Aslan joined the game
+[12:41:35] [Server thread/INFO]: Benjamin lost connection: Timed out
+[12:41:35] [Server thread/INFO]: Benjamin left the game
+[12:48:03] [Server thread/INFO]: Benjamin[/204.18.44.251:49785] logged in with entity id 6155 at (-2330.163169578221, 56.0, -2634.6330343277004)
+[12:48:03] [Server thread/INFO]: Benjamin joined the game
+[13:44:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[13:44:47] [Server thread/INFO]: gamedificalty<--[HERE]
+[13:45:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[13:45:11] [Server thread/INFO]: gamedifficulty<--[HERE]
+[13:45:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[13:45:33] [Server thread/INFO]: gamedifficulty<--[HERE]
+[13:45:58] [Server thread/INFO]: The difficulty is Easy
+[13:46:15] [Server thread/INFO]: The difficulty has been set to Hard
+[14:14:50] [Server thread/INFO]: Villager bnw['Villager'/25921, l='ServerLevel[world]', x=-2356.30, y=65.00, z=-2604.63] died, message: 'Villager was slain by Benjamin'
+[14:38:46] [Server thread/INFO]: Villager bnw['Villager'/29650, l='ServerLevel[world]', x=-2393.11, y=62.90, z=-2563.08] died, message: 'Villager was slain by Benjamin'
+[14:52:46] [Server thread/INFO]: Aslan lost connection: Disconnected
+[14:52:46] [Server thread/INFO]: Aslan left the game
+[15:59:01] [Server thread/INFO]: Villager bnw['Fisherman'/44041, l='ServerLevel[world]', x=-2374.33, y=62.90, z=-2544.91] died, message: 'Fisherman was slain by Benjamin'
+[16:35:10] [Server thread/INFO]: Benjamin lost connection: Timed out
+[16:35:10] [Server thread/INFO]: Benjamin left the game
+[16:35:28] [Server thread/INFO]: Benjamin[/204.18.44.251:49943] logged in with entity id 54605 at (-2304.300000011921, 57.0, -2633.300000011921)
+[16:35:28] [Server thread/INFO]: Benjamin joined the game
+[17:07:39] [Server thread/INFO]: Benjamin lost connection: Disconnected
+[17:07:39] [Server thread/INFO]: Benjamin left the game
+[17:21:52] [Server thread/INFO]: Benjamin[/5.208.120.222:49977] logged in with entity id 58087 at (-2304.300000011921, 57.0, -2633.7218294410704)
+[17:21:52] [Server thread/INFO]: Benjamin joined the game
+[17:51:04] [Server thread/INFO]: Benjamin lost connection: Disconnected
+[17:51:04] [Server thread/INFO]: Benjamin left the game
+[17:57:19] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at acx$1.run(SourceFile:99) [server-1.18.2.jar:?]
